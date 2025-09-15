@@ -1,0 +1,17 @@
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\Huoltokirja.AjoneuvoForm.resources
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\Huoltokirja.Form1.resources
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\Huoltokirja.csproj.GenerateResource.cache
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\Huoltokirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\Huoltokirja.AssemblyInfoInputs.cache
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\Huoltokirja.AssemblyInfo.cs
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\Huoltokirja.csproj.CoreCompileInputs.cache
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\bin\Debug\net8.0-windows\Huoltokirja.exe
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\bin\Debug\net8.0-windows\Huoltokirja.deps.json
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\bin\Debug\net8.0-windows\Huoltokirja.runtimeconfig.json
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\bin\Debug\net8.0-windows\Huoltokirja.dll
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\bin\Debug\net8.0-windows\Huoltokirja.pdb
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\Huoltokirja.dll
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\refint\Huoltokirja.dll
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\Huoltokirja.pdb
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\Huoltokirja.genruntimeconfig.cache
+C:\Users\julpu\source\repos\Huoltokirja\Huoltokirja\obj\Debug\net8.0-windows\ref\Huoltokirja.dll

@@ -1,0 +1,49 @@
+﻿[
+  {
+    "Id": "KON-001",
+    "Nimi": "Kaivuri",
+    "HuoltoväliTunnit": 300,
+    "ViimeisinMittarilukema": 312312312,
+    "Merkinnät": [
+      {
+        "Pvm": "2025-09-01T11:21:25.4316717+03:00",
+        "Käyttäjä": "Opiskelija 1",
+        "Mittarilukema": 6050,
+        "Toimenpide": "Öljyn lisäys",
+        "Kuvaus": "Lisätty 2 litraa",
+        "OnkoVikailmoitus": false
+      },
+      {
+        "Pvm": "2025-09-05T11:31:52.5035068+03:00",
+        "Käyttäjä": "julpu",
+        "Mittarilukema": 312312312,
+        "Toimenpide": "Öljynvaihto",
+        "Kuvaus": "bööö",
+        "OnkoVikailmoitus": false
+      }
+    ]
+  },
+  {
+    "Id": "KON-002",
+    "Nimi": "Moottorisaha",
+    "HuoltoväliTunnit": 100,
+    "ViimeisinMittarilukema": 120,
+    "Merkinnät": [
+      {
+        "Pvm": "2025-09-03T11:21:25.435492+03:00",
+        "Käyttäjä": "Opiskelija 2",
+        "Mittarilukema": 120,
+        "Toimenpide": "Tankkaus",
+        "Kuvaus": "Täytetty tankki",
+        "OnkoVikailmoitus": false
+      }
+    ]
+  },
+  {
+    "Id": "KON-003",
+    "Nimi": "Traktori",
+    "HuoltoväliTunnit": 200,
+    "ViimeisinMittarilukema": 2500,
+    "Merkinnät": []
+  }
+]
